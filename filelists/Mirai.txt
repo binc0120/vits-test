@@ -1,0 +1,849 @@
+wavs/mir10001.wav|あおくんと、ずっと一緒にいる
+wavs/mir10001p.wav|あおくんと、ずっと一緒にいる
+wavs/mir10002.wav|桜路中学校からきました、七瀬未来です
+wavs/mir10003.wav|ひさしぶり
+wavs/mir10004.wav|憶えてる？
+wavs/mir10005.wav|そっか
+wavs/mir10007.wav|変わってないね
+wavs/mir10010.wav|じゃあまた。五十嵐くん
+wavs/mir10010p.wav|じゃあまた。五十嵐くん
+wavs/mir10012.wav|五十嵐くん
+wavs/mir10014.wav|これから帰るの？
+wavs/mir10015.wav|そっか
+wavs/mir10017.wav|じゃあ私、部活あるから気をつけてね
+wavs/mir10017p.wav|じゃあ私、部活あるから気をつけてね
+wavs/mir10018.wav|五十嵐くん！
+wavs/mir10019.wav|はぁっ、追いついた！
+wavs/mir10020.wav|早いよぉ、帰るの
+wavs/mir10021.wav|べつに、謝ることじゃないけどさ
+wavs/mir10022.wav|えーっとね
+wavs/mir10023.wav|その一緒に、帰っていい？
+wavs/mir10025.wav|い、五十嵐くん？
+wavs/mir10026.wav|よかった
+wavs/mir10027.wav|また同じクラスだね。１年ぶり
+wavs/mir10029.wav|一緒に帰ろうと思ったか？
+wavs/mir10031.wav|だって、あと１年なんだもん
+wavs/mir10032.wav|高校生活
+wavs/mir10033.wav|もう、遠慮するのはやめようと思って
+wavs/mir10034.wav|五十嵐くんがどう考えてるのかわからないけど
+wavs/mir10035.wav|私は、高校生活を後悔したくないから、五十嵐くんとのもやもやを残したままでいたくないんだ
+wavs/mir10037.wav|私たち昔みたいな関係に戻れないかな？
+wavs/mir10039.wav|やっと、そうやって呼んでくれたね、”あおくん”
+wavs/mir10039p.wav|やっと、そうやって呼んでくれたね、”あおくん”
+wavs/mir10040.wav|ずっと気になってたんだ名字で呼ばれるの
+wavs/mir10041.wav|あおくんは、私たちが仲良かったこと忘れちゃったのかなって
+wavs/mir10043.wav|うんそうだよね
+wavs/mir10044.wav|それにやっぱり、昔みたいに未来って呼んでくれたほうがしっくりくる
+wavs/mir10045.wav|いいかな？
+wavs/mir10046.wav|あ！　どうして戻すの！？　未来でしょ！
+wavs/mir10046p.wav|あ！　どうして戻すの！？　未来でしょ！
+wavs/mir10047.wav|うん,あおくん
+wavs/mir10048.wav|あおくーんっ！
+wavs/mir10049.wav|おはようあおくんっ
+wavs/mir10051.wav|え、昨日、そう呼ぶねって
+wavs/mir10052.wav|聞かれたら？
+wavs/mir10054.wav|あ、恥ずかしいってこと？
+wavs/mir10055.wav|そ、そうかな
+wavs/mir10056.wav|でも、あおくんがいやなら
+wavs/mir10057.wav|じゃあ名字に戻す？
+wavs/mir10058.wav|また、ちょっとよそよそしい感じになっちゃうけど
+wavs/mir10059.wav|そうだね
+wavs/mir10060.wav|あ！　じゃあさ、TALK交換しようよ、私このあと部室寄らなきゃいけないし
+wavs/mir10061.wav|えーっとQRでいいよね
+wavs/mir10062.wav|はい、あおくんのほうで読み取ってくれる？
+wavs/mir10063.wav|ああ！？　えーっと！　いがくん！！
+wavs/mir10064.wav|ほんとだ
+wavs/mir10065.wav|やった、これでアーオああと友だちだね！
+wavs/mir10066.wav|イガラシクン！
+wavs/mir10067.wav|ううん、私のわがままだから
+wavs/mir10068.wav|やっぱり、すぐに昔みたいにはなれないよね
+wavs/mir10069.wav|じゃあ私、部室行ってくるからまたあとで、トークするね！
+wavs/mir10070.wav|おはよう、あおくん
+wavs/mir10071.wav|あ、ううん、いいの、時間も遅かったし
+wavs/mir10072.wav|ほんと？　じゃあ今日でもいいの？
+wavs/mir10073.wav|やった、じゃあ今日の放課後ねっ
+wavs/mir10074.wav|あおくん
+wavs/mir10075.wav|いこっか？
+wavs/mir10077.wav|えっ？　どうして？
+wavs/mir10079.wav|そうなったら、あおくんはイヤ？
+wavs/mir10080.wav|私は、気にしないかな
+wavs/mir10081.wav|高校生活はあと１年もないんだし、噂されたって、しょせん噂だもん
+wavs/mir10082.wav|でも、あおくんがイヤなら
+wavs/mir10083.wav|そんなことで迷惑かからないよ
+wavs/mir10084.wav|それに、なにも悪くないのにがまんしなくちゃいけないほうがイヤかも
+wavs/mir10085.wav|なぁに？
+wavs/mir10086.wav|えー？　なつかしポイントどこぉ？
+wavs/mir10087.wav|そうかな
+wavs/mir10088.wav|そうでもないんだけどね
+wavs/mir10089.wav|まっ、だからさ、一緒に下りよう？
+wavs/mir10090.wav|あ、ばいばーいっ
+wavs/mir10091.wav|あおくーん？　どこいくの？
+wavs/mir10092.wav|ガチャガチャ、こっちだよ
+wavs/mir10093.wav|元気ない？
+wavs/mir10095.wav|いつぶりだろうね、あおくんと遊びに行くの
+wavs/mir10096.wav|えーとみんなでごはんを食べに行ったときかな？
+wavs/mir10097.wav|うんうちの両親とあおくんちの両親で、ごはん食べに行ったじゃない？
+wavs/mir10098.wav|私たち早くに飽きちゃって、一緒にお庭を見に行ってさ
+wavs/mir10099.wav|そうそう
+wavs/mir10100.wav|鯉がいて、お店の人が餌やりさせてくれたよね
+wavs/mir10101.wav|そう！　おっきくて黒い！
+wavs/mir10102.wav|そのあとも近所の公園とか、お互いの家に行ったりはしたけど
+wavs/mir10103.wav|一緒にお出かけっていうのは、あれが最後だよね
+wavs/mir10104.wav|そうだけどぉ！
+wavs/mir10105.wav|でも、あおくんとどこか行くのって久しぶりだから
+wavs/mir10106.wav|ほら、これこれ！
+wavs/mir10107.wav|この近辺だとここしかないんだよね
+wavs/mir10108.wav|ごはんニワトリのキーホルダーかなぁ、欲しいんだけど出なくって
+wavs/mir10109.wav|あおくんは？
+wavs/mir10111.wav|もぐわに！　これ人食べてるんだよね
+wavs/mir10112.wav|かわいいよね
+wavs/mir10113.wav|それママのお気に入りなの
+wavs/mir10114.wav|それのエプロン買ってたし
+wavs/mir10115.wav|さすがに人を食べてるわにのエプロンはヘンだよね？
+wavs/mir10116.wav|私からやっていい？
+wavs/mir10117.wav|あおくんのほうでごはんニワトリが出たら交換してね？
+wavs/mir10118.wav|ごはんニワトリぃ
+wavs/mir10120.wav|あもぐわにだーっ！
+wavs/mir10121.wav|しょうがない、ママにあげよ
+wavs/mir10122.wav|ごはんニワトリ、ほんとに入ってるのかなー？
+wavs/mir10123.wav|頼んだあおくん！　私のぶんまで！
+wavs/mir10124.wav|あーっ！　ごはんニワトリ！！
+wavs/mir10125.wav|交換してください！
+wavs/mir10126.wav|私のもぐわにと、交換してください！！
+wavs/mir10127.wav|聞かなかったことにしてください！！
+wavs/mir10128.wav|だめだめそんな、それはあおくんに悪いよ！
+wavs/mir10129.wav|やったー！！
+wavs/mir10130.wav|ありがとうあおくん！
+wavs/mir10131.wav|あおくん！
+wavs/mir10132.wav|帰るの早いってぇ
+wavs/mir10133.wav|誰かと話したりしないの？
+wavs/mir10134.wav|たまに一緒にいる２年生の子は？
+wavs/mir10136.wav|と、ともかくっ
+wavs/mir10137.wav|一緒に帰ろうよ、ね？
+wavs/mir10138.wav|不思議だよね
+wavs/mir10139.wav|こうしてあおくんと一緒に帰るのって、当たり前だったのになんだか懐かしくて
+wavs/mir10140.wav|懐かしいけど不思議と、中学校の３年っていうほど空いた感じはしないの
+wavs/mir10142.wav|ずっと、部活漬けだったかな
+wavs/mir10143.wav|うん、剣道
+wavs/mir10144.wav|ああ、うちのママとあおくんママはずっと連絡取ってたもんね
+wavs/mir10146.wav|そうだねぇ
+wavs/mir10147.wav|なんていうか
+wavs/mir10149.wav|内緒
+wavs/mir10150.wav|でも、自分で選んだんだよ？
+wavs/mir10151.wav|自分で選んで、頑張ったと思う私なりには
+wavs/mir10152.wav|日常生活でも役に立ちそうだったから
+wavs/mir10153.wav|傘とか、棒とかあればヘンな人が来ても撃退できるじゃない？
+wavs/mir10154.wav|最初は、そうだね。あとから楽しくなってきちゃったけど
+wavs/mir10155.wav|だから合気道もやったよ
+wavs/mir10156.wav|剣道は部活で、合気道は習い事
+wavs/mir10157.wav|漫画の主人公かぁ、それは考えてなかったなぁ
+wavs/mir10159.wav|あ、そろそろ葉っぱを水に浮かべてみたほうがいいかな
+wavs/mir10160.wav|そうだっけ？
+wavs/mir10161.wav|よく憶えてるねぇ
+wavs/mir10163.wav|なんか、昔もこういう話してたよね
+wavs/mir10165.wav|あおくんはなんかあれやってたよね、こわい動きの看護師さんが襲ってくるゲーム
+wavs/mir10166.wav|ほら、街に霧がかかっててさ
+wavs/mir10167.wav|ストーリー憶えてるの？　小さかったのに？
+wavs/mir10168.wav|え、どういうお話だったの？
+wavs/mir10170.wav|じゃあ、今度やってるとこ見せてよ
+wavs/mir10171.wav|うん、いいよ
+wavs/mir10172.wav|真エンド？
+wavs/mir10173.wav|え？　お話が変わるってこと？
+wavs/mir10174.wav|へえ！　そんなのあるんだ
+wavs/mir10175.wav|ないない！　どうぶつの国とか、あとバケモンとかしかやらないから
+wavs/mir10176.wav|うん、たぶん最新のやつ。あおくんも持ってる？
+wavs/mir10177.wav|私、白！
+wavs/mir10178.wav|じゃあ今度それもやろ？　対戦してみたい
+wavs/mir10179.wav|あとさ、電車で日本回るのとかもやったよね
+wavs/mir10180.wav|あれもまたやりたいなー
+wavs/mir10181.wav|だいじょーぶ！　もう子供じゃないんだから！
+wavs/mir10182.wav|ほんとほんと！　あ、人生ゲームでもいいけど！
+wavs/mir10183.wav|一緒に探すからさぁ！
+wavs/mir10184.wav|じゃあね、あおくん
+wavs/mir10185.wav|３DN探しといてね！
+wavs/mir10186.wav|あおくんっ
+wavs/mir10187.wav|あっ、ごめん驚かせちゃったね
+wavs/mir10188.wav|ねぇねぇ、あおくんってまだ漫画持ってる？
+wavs/mir10189.wav|さっき友達と話しててさ、ゴールデンハンターの続き、気になってきちゃって
+wavs/mir10190.wav|ほんと？　読みたいなぁ
+wavs/mir10191.wav|やった、ありがとう
+wavs/mir10192.wav|あ、うーんそれは悪いから
+wavs/mir10193.wav|明日、一緒にあおくんちに行って、自分で家まで持って帰るでもいいかな？
+wavs/mir10194.wav|今日は部活あるんだ
+wavs/mir10195.wav|ありがとう！　じゃあ、また明日ね
+wavs/mir10196.wav|あおくん
+wavs/mir10197.wav|帰ろっか
+wavs/mir10201.wav|あおくん？
+wavs/mir10203.wav|なにか悩み事？　私でよかったら聞くけど
+wavs/mir10205.wav|私、３年間、あおくんとは離れちゃってたけど
+wavs/mir10206.wav|ううん、ちゃんと話せるようになったのは最近だから実質５年くらいか
+wavs/mir10207.wav|だからあおくんとの距離は離れちゃったし
+wavs/mir10208.wav|私もあおくんも、昔より大きくなったからさ、今すぐ元通りにってわけにはいかないかもしれないけど
+wavs/mir10209.wav|でも、少しずつでも前みたいな関係に戻れればなって思うから
+wavs/mir10210.wav|だから、私で役に立てることなら、頼ってほしいっていうか、力になりたいっていうか
+wavs/mir10212.wav|ああおくんの後輩くん？
+wavs/mir10213.wav|あ、よろしくあおくんと幼馴染の七瀬です
+wavs/mir10215.wav|今から漫画借りに行くだけなの
+wavs/mir10218.wav|紀伊国屋くんどういう子？
+wavs/mir10219.wav|ふぅん
+wavs/mir10220.wav|ううん前も一緒にいた？
+wavs/mir10221.wav|そっか、仲いいんだね
+wavs/mir10222.wav|ふふ、それは、あおくんが優しいってことだね
+wavs/mir10223.wav|そうだよ、じゃないと下の子は馴れ馴れしくできないから
+wavs/mir10224.wav|でも、好意的なんでしょ？
+wavs/mir10225.wav|むしろ、私が{rb}量{/rb}{rt}はか{/rt}られたのかも
+wavs/mir10226.wav|あううん、気にしないで
+wavs/mir10228.wav|『ゴールデンハンター』ってさ、今何巻まで出てるの？
+wavs/mir10229.wav|あんまり進んでない？
+wavs/mir10230.wav|そうなんだ？
+wavs/mir10232.wav|そうだねぇ
+wavs/mir10233.wav|でも疲れちゃったのかな
+wavs/mir10234.wav|だって３０巻以上ってことは、長いこと連載してるんでしょう？　週刊で
+wavs/mir10235.wav|だとしたら、ほとんど休みなく働いてきたってことだよね
+wavs/mir10236.wav|それにさ、それだけ連載してたらお金持ちなんでしょ？
+wavs/mir10238.wav|だとしたら、その人にとって、もう働かなきゃいけない理由はなかったりして
+wavs/mir10239.wav|じゃあ、原因がなににしても、休むのはしょうがない気もするね
+wavs/mir10241.wav|でも、もしかしたら奥さんと仲良く過ごしてるのかも
+wavs/mir10242.wav|あおくんだったら、見知らぬ読者たくさんと、最愛の奥さん１人、どっちを優先する？
+wavs/mir10243.wav|トロッコ問題？
+wavs/mir10244.wav|知らない
+wavs/mir10245.wav|あ、聞いたことあるかも
+wavs/mir10246.wav|トロッコだったら、あおくんはどっちを選ぶの？
+wavs/mir10247.wav|どうして？
+wavs/mir10248.wav|要するに人数が多いからってことね
+wavs/mir10249.wav|脱線させるとかは？
+wavs/mir10250.wav|ですよねぇ
+wavs/mir10251.wav|そうだね、今後生活するにあたり必要な資金があるものとしよう
+wavs/mir10252.wav|価値観の話じゃなくなっちゃうもん、トロッコが脱線しないのと同じでしょ？
+wavs/mir10253.wav|それで？
+wavs/mir10254.wav|どうして？
+wavs/mir10255.wav|あおくんはきちんとしてるなぁ
+wavs/mir10256.wav|ふふ、本音はそれだね
+wavs/mir10257.wav|へぇ！　どうして？
+wavs/mir10259.wav|ううん、あおくんらしくていいと思うよ
+wavs/mir10260.wav|あはは、それもそうだね、読者なんだから
+wavs/mir10261.wav|でも、どんな事情があるかわからないから待ってるしかないよね
+wavs/mir10262.wav|黙ってかぁ
+wavs/mir10263.wav|黙ってはないかもしれない
+wavs/mir10264.wav|続きが読みたいって思って、こうやってあおくんに訊いてみたり、最新巻の情報を心待ちにしちゃうかもしれないけど
+wavs/mir10265.wav|だけどまあそうだね、私は待ってる、かな
+wavs/mir10266.wav|待つしかないときはもうしょうがないもん
+wavs/mir10267.wav|それもそれでしょうがないね、”読みたい！”って祈るしか？
+wavs/mir10268.wav|じゃあどうするの？
+wavs/mir10269.wav|他にもなにか面白い漫画ある？
+wavs/mir10270.wav|戦場の花嫁？
+wavs/mir10271.wav|ウェディングドレスで！？
+wavs/mir10272.wav|ボロボロになっちゃいそう
+wavs/mir10273.wav|新機能！？　ウェディングドレスに！？
+wavs/mir10274.wav|気になってきた
+wavs/mir10275.wav|おじゃましまーす
+wavs/mir10276.wav|わ、あおくんち久しぶりー
+wavs/mir10277.wav|あんまり変わってないねぇ
+wavs/mir10278.wav|や、うちは引っ越しちゃったからさ、懐かしいなぁ
+wavs/mir10279.wav|昔は近かったよねぇ、今でもそんなに遠くないけど
+wavs/mir10280.wav|ああおくんのお部屋、入ってもいい？
+wavs/mir10281.wav|うん、いいの。今どんな風なのかなって
+wavs/mir10282.wav|うん、ついてくね
+wavs/mir10283.wav|おじゃましまーす
+wavs/mir10284.wav|ああおくんのにおいがする
+wavs/mir10285.wav|ううん、そうじゃなくていいにおい
+wavs/mir10286.wav|わぁ、だめぇっ！
+wavs/mir10287.wav|ウソウソ！　無味無臭だから！
+wavs/mir10289.wav|おー、参考書並んでる、受験生って感じ
+wavs/mir10290.wav|んーと、ライセンス試験が終わって、最初のゴールドをハントしにいくところかな？
+wavs/mir10291.wav|え！？　黄金じゃないの！？
+wavs/mir10292.wav|えー！　気になる！
+wavs/mir10293.wav|そっかー、なんなんだろうなぁ
+wavs/mir10294.wav|あおくんは、最近も漫画買ってるの？
+wavs/mir10295.wav|あ、そうなんだあおくんママ、そんなに厳しいイメージなかったけど
+wavs/mir10296.wav|そっかそれで、あおくん勉強頑張ってるんだ
+wavs/mir10298.wav|ごめん大変なのに、漫画なんか借りに来ちゃって
+wavs/mir10299.wav|そうなの？
+wavs/mir10300.wav|つ、”ついに”？
+wavs/mir10302.wav|まぁ
+wavs/mir10303.wav|もう、私たち
+wavs/mir10304.wav|子供じゃないもんね？
+wavs/mir10305.wav|うん
+wavs/mir10306.wav|ありがとう
+wavs/mir10307.wav|うん、読み終わったら感想送るね
+wavs/mir10308.wav|ほんと？　楽しみ
+wavs/mir10309.wav|じゃあ――― 
+wavs/mir10310.wav|あ、あおくんママ？　おかえりなさい
+wavs/mir10311.wav|へへ、お久しぶりです
+wavs/mir10312.wav|あんなにおっとりしてないです
+wavs/mir10314.wav|えっい、いいですけど、あおくんは――― 
+wavs/mir10315.wav|そうかなぁ？
+wavs/mir10316.wav|じゃあわかりました
+wavs/mir10317.wav|でも、なんで内緒話？
+wavs/mir10319.wav|うんあおくんには大事なことかも
+wavs/mir10320.wav|大丈夫、すぐそこだから
+wavs/mir10321.wav|うん。あおくんも、また明日ね
+wavs/mir10322.wav|おくーん
+wavs/mir10323.wav|あおくーん？
+wavs/mir10324.wav|あおくん！
+wavs/mir10325.wav|おはよう
+wavs/mir10326.wav|昨日あおくんママから頼まれて
+wavs/mir10327.wav|あおくんを起こしてほしいって
+wavs/mir10328.wav|あおくんママ、もう出かけたよ？
+wavs/mir10329.wav|私にあおくんを任せられたから、出たい時間に出られたんじゃないかな
+wavs/mir10330.wav|まあまあ、そんなに怒らなくっても
+wavs/mir10331.wav|私も承諾したんだし
+wavs/mir10332.wav|ううん、そんなことないよ。私割と早起きなんだ
+wavs/mir10333.wav|あおくん、電話なんかじゃ起きないでしょ？
+wavs/mir10334.wav|それにさ、あおくんママが言うように、内申も大事だよ？
+wavs/mir10335.wav|あはは、いつも言われてるんだ
+wavs/mir10336.wav|あ、遅くなっちゃうから、話はごはん食べながらにしよ？
+wavs/mir10337.wav|ううん、私は家で食べてきたよ？
+wavs/mir10338.wav|んー、そうだけど
+wavs/mir10339.wav|せっかくだし、一緒に行こうよ
+wavs/mir10340.wav|二度寝しそうだし
+wavs/mir10341.wav|相変わらず、朝弱いんだね
+wavs/mir10342.wav|あおくん昔からそうだったよね？
+wavs/mir10343.wav|そうだよー！　よく寝てたよ、本当に
+wavs/mir10344.wav|夏休みに遊ぶ約束してもさ、家に来たらフツーに寝てるとかあったじゃない？
+wavs/mir10345.wav|それに、一時期は心配になるくらい
+wavs/mir10346.wav|うん結果的には、そうだったね
+wavs/mir10348.wav|それだけ？
+wavs/mir10349.wav|朝ごはん、それだけ？
+wavs/mir10351.wav|それだけ？
+wavs/mir10352.wav|だから、朝ごはんっ
+wavs/mir10353.wav|えぇーっ！？　足りないよぉ！
+wavs/mir10354.wav|トーストじゃなくて！　なにもかも足りないよぉ！
+wavs/mir10355.wav|栄養素！！
+wavs/mir10356.wav|たんたんミン！
+wavs/mir10357.wav|炭水化物・タンパク質・ビタミンだよ
+wavs/mir10358.wav|バタートーストじゃ炭水化物と脂質がちょっとしかないから
+wavs/mir10359.wav|失礼しますっ
+wavs/mir10360.wav|なにかないかなぁ
+wavs/mir10361.wav|うーん、本当はお味噌汁がいいんだけど
+wavs/mir10362.wav|だよねぇ
+wavs/mir10363.wav|あ、お野菜あるね。少しばかりお借りしてあおくんママにはあとで断っておくから
+wavs/mir10364.wav|親しき中にも礼儀あり、お台所お借りしまーすっ
+wavs/mir10365.wav|時間なくなっちゃうから、あおくんは先にトースト食べてて
+wavs/mir10366.wav|はいっ
+wavs/mir10367.wav|お塩と胡椒どこ？
+wavs/mir10368.wav|あ、あった、すぐサラダもできるから
+wavs/mir10369.wav|レモン酢レモン酢
+wavs/mir10370.wav|はい、サラダでーすっ
+wavs/mir10371.wav|もうドレッシングかかってるから、簡単なものだけど
+wavs/mir10372.wav|よかった
+wavs/mir10373.wav|塩・こしょう・オリーブオイル・レモン酢
+wavs/mir10374.wav|だけ
+wavs/mir10375.wav|時間あればもうちょっと凝れたんだけど
+wavs/mir10376.wav|すごく簡単なんだよ？　市販のものより身体にもいいし
+wavs/mir10377.wav|それは
+wavs/mir10378.wav|内緒
+wavs/mir10379.wav|どうしたの？
+wavs/mir10380.wav|ああっ！？
+wavs/mir10381.wav|あ、あおくん行かなきゃ！
+wavs/mir10382.wav|私が来て結果的に遅刻してたら{rb}面目{/rb}{rt}めんぼく{/rt}立たないよう！
+wavs/mir10383.wav|ほら、急がないと急がないと！
+wavs/mir10384.wav|サラダ全部食べたのっ！？
+wavs/mir10385.wav|もーっ、喉詰まらせないように走らないと！
+wavs/mir10386.wav|行くよっ！
+wavs/mir10387.wav|あおくーん
+wavs/mir10388.wav|あおくーんっ
+wavs/mir10389.wav|学校、遅刻しちゃうよ
+wavs/mir10390.wav|ほーんと朝弱いねぇっ
+wavs/mir10391.wav|あおくーん、起きないと無理やり起こすよー？
+wavs/mir10392.wav|お布団めくっちゃうよー？
+wavs/mir10393.wav|しょーーがないなぁっ
+wavs/mir10393p.wav|しょーーがないなぁっ
+wavs/mir10394.wav|まったく、遅刻しちゃう――― 
+wavs/mir10395.wav|よっ！
+wavs/mir10397.wav|ごっごめん！
+wavs/mir10398.wav|あっそう、なんだ？
+wavs/mir10399.wav|ごめんね、うち、男の子いないからよくわかってないんだけど
+wavs/mir10400.wav|なんだっけ、そういうの『あ――― 
+wavs/mir10401.wav|あそ、そう？　合ってるかなって
+wavs/mir10402.wav|とっ、友達が勝手に話してくるからっ！！　決して私から話してるわけじゃっ！
+wavs/mir10403.wav|う
+wavs/mir10404.wav|あ、あおくんの目が『なんで知ってるの？』って感じだったから
+wavs/mir10405.wav|ち、遅刻しちゃうからさっ？　早くごはん食べて学校行こ？
+wavs/mir10408.wav|おはよう
+wavs/mir10409.wav|うわ今日もあっついねー
+wavs/mir10410.wav|海入りたーい
+wavs/mir10411.wav|あおくんは？
+wavs/mir10412.wav|そういえば、あおくんは昔からあんまりだったね、海
+wavs/mir10413.wav|人はそれを”あんまり”と言います
+wavs/mir10414.wav|妙な気分
+wavs/mir10415.wav|わ、わかってるっ
+wavs/mir10416.wav|そんなにヘンな話してないよ！　{rb}極稀{/rb}{rt}ごくまれ{/rt}にからかってくるだけで！
+wavs/mir10417.wav|あおくん？　ヘンなこと考えてないよね？
+wavs/mir10418.wav|なんかさ、その子、中学からの友達なんだけど、たまにからかわれるんだよね。私に彼氏がいたことないからって
+wavs/mir10419.wav|あ、うん、でもその話はもう済んでるから
+wavs/mir10421.wav|悪い子たちじゃないからさ、私が本当に嫌なことはしてこないの
+wavs/mir10422.wav|だって、{rb}囃{/rb}{rt}はや{/rt}し立てられるの、あおくん嫌でしょ？
+wavs/mir10423.wav|うん。だから素直に言ったの
+wavs/mir10424.wav|『幼馴染なんだからおかしくないでしょ』って
+wavs/mir10425.wav|うん、いい子たちだからね
+wavs/mir10426.wav|どうしたの？
+wavs/mir10427.wav|うん、なにかなと思って
+wavs/mir10429.wav|へぇ！　いいことしたんだね
+wavs/mir10430.wav|いいじゃん、そういうのあおくんらしい
+wavs/mir10431.wav|うんあおくんは昔から優しかったから
+wavs/mir10434.wav|よくお年寄りに席を譲ってたとか？
+wavs/mir10435.wav|小３くらいかなぁ
+wavs/mir10436.wav|あおくんパパに言われておばあちゃんに席を譲ったら、『ありがとう』って言われて
+wavs/mir10437.wav|その時、あおくんすごく嬉しそうな顔してて
+wavs/mir10438.wav|それからだよね、他の場所でもよく席を譲ろうとしてたの
+wavs/mir10439.wav|善でも偽善でもいいんじゃない？
+wavs/mir10440.wav|それが相手にとっていいことであるなら、いいことには変わりないもん
+wavs/mir10441.wav|でも、人に喜んでもらうことが嬉しいって、根本的に善人だよね
+wavs/mir10443.wav|善人だよ、あおくんは
+wavs/mir10444.wav|幼馴染の私が言うんだから、間違いない
+wavs/mir10445.wav|あ、そうだ
+wavs/mir10446.wav|『ゴールデンハンター』、借りてたぶん読み終わったんだった、あと『{rb}戦花{/rb}{rt}せんはな{/rt}』も
+wavs/mir10447.wav|どっちもすごく面白かった！　早く続き読みたい！
+wavs/mir10448.wav|ありがとう
+wavs/mir10449.wav|そしたら、その間に私はうちから漫画持ってこようかな？
+wavs/mir10450.wav|え？　いいの？
+wavs/mir10451.wav|あ、そういうことか
+wavs/mir10452.wav|困るなー、たくさんあるとまとめて読んじゃうよぉ
+wavs/mir10453.wav|たくさんください、限界まで
+wavs/mir10454.wav|なんだかごめんね、重そう
+wavs/mir10455.wav|ありがとう
+wavs/mir10456.wav|正直なところすごく気になってる、続き
+wavs/mir10457.wav|くりふはんがー？
+wavs/mir10458.wav|あー！　クリフハンガーって言うんだ！
+wavs/mir10459.wav|そうそう、そうなの！　ライラがやっとたどり着いたっていうのに！
+wavs/mir10460.wav|早く読みたいなっ
+wavs/mir10461.wav|ただいまーっ
+wavs/mir10462.wav|ありがとう。ちょっと待っててね、今返すの持ってくるから――― 
+wavs/mir10463.wav|ママ！？　あおくんだよ！？
+wavs/mir10465.wav|ママ、あおくんは勉強で忙しいんだよ
+wavs/mir10466.wav|プレッシャーなの？
+wavs/mir10468.wav|ママ、昨日見た映画に影響されてるの。映画の中で子供のことをそうやって呼んでたから
+wavs/mir10469.wav|まったく、私はもう子供じゃないんだから
+wavs/mir10470.wav|え？　そうだったかな
+wavs/mir10471.wav|”サヨナキドリちゃん”？
+wavs/mir10472.wav|あー、サヨナキドリはーうん
+wavs/mir10473.wav|あ、そうそう！　そんなこともあったねぇ
+wavs/mir10474.wav|たしかそう
+wavs/mir10475.wav|どう違うの？
+wavs/mir10476.wav|なに？
+wavs/mir10477.wav|あおくん知ってる？
+wavs/mir10478.wav|サヨナキドリは？
+wavs/mir10479.wav|あ、そうなんだ
+wavs/mir10480.wav|ウェストサイドストーリーなら選択音楽で観たよ？
+wavs/mir10481.wav|ママ！
+wavs/mir10482.wav|はじまった
+wavs/mir10483.wav|やめて
+wavs/mir10484.wav|このへんそんなに遊びにいくところとかないじゃん
+wavs/mir10485.wav|ま、ママっ！
+wavs/mir10486.wav|全部喋るじゃん
+wavs/mir10487.wav|そうだけど
+wavs/mir10488.wav|いいの？
+wavs/mir10489.wav|子供みたいにはしゃぐのやめてよぉ
+wavs/mir10489p.wav|子供みたいにはしゃぐのやめてよぉ
+wavs/mir10490.wav|そうだけど
+wavs/mir10491.wav|あ、ごめんね、ゆっくりさせちゃって
+wavs/mir10492.wav|うん
+wavs/mir10493.wav|もう！　パパ！
+wavs/mir10494.wav|ごめんね、久しぶりにあおくんに会えてテンションあがってるみたい
+wavs/mir10496.wav|あおくんも食べてく？　ピザ
+wavs/mir10497.wav|そっか
+wavs/mir10498.wav|なんでよっ
+wavs/mir10499.wav|また、漫画読み終わったら言うね
+wavs/mir10500.wav|絶対言わないでぇっ！
+wavs/mir10501.wav|うん
+wavs/mir10502.wav|じゃあまた、学校で
+wavs/mir10503.wav|だーれ、だっ！！
+wavs/mir10504.wav|ちゃんとつかないように気をつけたもん
+wavs/mir10505.wav|大丈夫、誰もいないの確認したから
+wavs/mir10506.wav|どういう問題？
+wavs/mir10509.wav|うん以後気をつけます
+wavs/mir10510.wav|それで？
+wavs/mir10511.wav|だ、だーれだ？
+wavs/mir10513.wav|正解
+wavs/mir10515.wav|だ！　だって小さいときはいつもこうやってたからっ！
+wavs/mir10516.wav|そ、そうだよねっ！
+wavs/mir10517.wav|ごめん、なんか、こうしないと収まりが悪いような気がして
+wavs/mir10518.wav|うん憶えてない？
+wavs/mir10519.wav|やっぱり記憶が飛んでるの？　小さい時のことは
+wavs/mir10520.wav|うん
+wavs/mir10521.wav|だって私たち、よくやってたと思うよ、『だーれだ』って
+wavs/mir10522.wav|いつもっていうくらい
+wavs/mir10523.wav|だーれだ！
+wavs/mir10524.wav|でしょ？
+wavs/mir10525.wav|そっかそうだね
+wavs/mir10526.wav|あ、そっか。あおくんを起こすときとかなら問題ないか
+wavs/mir10528.wav|あれ
+wavs/mir10529.wav|あおくんと紀伊国屋くん？　なに話してるの？
+wavs/mir10531.wav|えっなんで？
+wavs/mir10532.wav|ううん、なんにも
+wavs/mir10533.wav|だーれだ
+wavs/mir10534.wav|せーかい
+wavs/mir10535.wav|ふふ、果たしてどうでしょう？
+wavs/mir10536.wav|はいはい、いいから遅刻しちゃうよ？
+wavs/mir10537.wav|最近、前より寝起きよくなったね
+wavs/mir10538.wav|うん、無理やり起こさなくてもよくなったし、布団も{rb}剥{/rb}{rt}は{/rt}がさなくてよくなった
+wavs/mir10539.wav|さっ、学校行こう？
+wavs/mir10540.wav|うわー、今日も暑くなりそー
+wavs/mir10541.wav|ほんとだね
+wavs/mir10542.wav|そういえば、もうすぐ夏休みだね
+wavs/mir10543.wav|なにか予定とかあるの？
+wavs/mir10544.wav|だよねぇ
+wavs/mir10545.wav|たまには息抜きも必要だからね？
+wavs/mir10546.wav|あおくんが{rb}根{/rb}{rt}こん{/rt}を詰め過ぎちゃうからだよ
+wavs/mir10547.wav|そうだよ。息抜きしないとパンクしちゃうよ？
+wavs/mir10548.wav|あおくんはとくに真面目なんだから
+wavs/mir10549.wav|あるよぉ
+wavs/mir10550.wav|私達の世界ではそれを真面目って言うんだなぁ
+wavs/mir10551.wav|頑張りすぎるとおかしくなっちゃうから、休養も練習のうちなんだよ
+wavs/mir10552.wav|まぁそうかな
+wavs/mir10553.wav|中学のとき、ちょっと頑張りすぎちゃって
+wavs/mir10554.wav|剣道ってね、裸足でやるから足の皮がむけたりしちゃうんだけど
+wavs/mir10555.wav|そんな痛みになんか負けてられない！って続けてたら、無意識にその足をかばってたみたいで、反対の足首を痛めちゃったの
+wavs/mir10556.wav|そのとき、先生から『休養も練習のうちだ』って{rb}諭{/rb}{rt}さと{/rt}されてさ
+wavs/mir10557.wav|ケガをしてしばらく休んじゃうより、ケガをしないように続けていくことが大事なんだなって
+wavs/mir10558.wav|だから、パンクしそうなときは声かけてくれていいんだからね
+wavs/mir10560.wav|ね、明日、カフェ行かない？
+wavs/mir10561.wav|うん、はちまんぐうの大通りに気になってるカフェがあってさ
+wavs/mir10561p.wav|うん、はちまんぐうの大通りに気になってるカフェがあってさ
+wavs/mir10562.wav|明日は土曜日だし、私も部活休みだから、あおくんさえよければ
+wavs/mir10563.wav|息抜きしよ？　息抜き
+wavs/mir10564.wav|そんなに時間も要るわけじゃないから
+wavs/mir10565.wav|あおくん？
+wavs/mir10568.wav|じゃあなおのこと行こうよ！　カフェっていいところだよ！？
+wavs/mir10569.wav|呪文？
+wavs/mir10570.wav|どどっぴお？
+wavs/mir10571.wav|どどっぴおってなに？
+wavs/mir10572.wav|えぇ！？　なにが！？
+wavs/mir10573.wav|と、とにかくっ、行こうと思ってるカフェはこわくないはずだよ？　呪文もいらないと思うし
+wavs/mir10574.wav|いらないと思うけど
+wavs/mir10575.wav|うん、じゃあ明日、行こうね、カフェ
+wavs/mir10576.wav|おはよう、あおくん
+wavs/mir10577.wav|ごめんね、早く着いちゃって、思わずトークしちゃった
+wavs/mir10578.wav|寝坊した？
+wavs/mir10579.wav|ふふっ、じゃあその寝癖はなにかなー？
+wavs/mir10580.wav|ちがうちがう、後ろ
+wavs/mir10581.wav|あ、いいのにそのままでも
+wavs/mir10582.wav|うん、ひよこみたいで可愛いし
+wavs/mir10583.wav|ふふふ、はーい
+wavs/mir10584.wav|ううん、大丈夫
+wavs/mir10585.wav|ううん、全然
+wavs/mir10586.wav|お天気もいいし、歩いていこうかなって思ってるんだけどあおくんさえよければ
+wavs/mir10587.wav|うん、お散歩だね
+wavs/mir10588.wav|嬉しそうだね？
+wavs/mir10589.wav|うん。あおくんのそんな顔、久しぶりに見た
+wavs/mir10593.wav|えーっ！？　してるよお！
+wavs/mir10594.wav|ちょっと楽しそうじゃん！
+wavs/mir10595.wav|楽しいんでしょ？
+wavs/mir10596.wav|そっか
+wavs/mir10597.wav|笑ってたよぉ！
+wavs/mir10598.wav|うん、お店は大通りの真ん中くらいにあるから、こっちの道を抜けたほうが近いの
+wavs/mir10599.wav|ううん、前を{rb}通{/rb}{rt}とお{/rt}ったことがあるだけ。気になってて
+wavs/mir10600.wav|あおくんはカフェ初めてなんだよね
+wavs/mir10601.wav|えっ、そうなの？
+wavs/mir10602.wav|じゃあ今日何しに行くと思ってたの？
+wavs/mir10603.wav|あ、うん、まぁそれもそうかな？
+wavs/mir10604.wav|お店にもよると思うけど、コーヒー以外にも色んなドリンクがあったり
+wavs/mir10605.wav|あとはデザートとか、ランチをやってるお店もあるよ
+wavs/mir10606.wav|そうそう、ちょっとおしゃれなごはんとかね
+wavs/mir10607.wav|ちなみに今はランチしにいこうと思ってるよ
+wavs/mir10608.wav|そうだねタコライスとか？
+wavs/mir10609.wav|あおくん？
+wavs/mir10612.wav|あおくんっタコライスはったこめしじゃないんだよっ
+wavs/mir10613.wav|う、ううんっ
+wavs/mir10614.wav|そうだよね、誰もが最初は通る道だよねっ
+wavs/mir10616.wav|今日、タコライスあったら食べてみるといいかもね？
+wavs/mir10617.wav|うーんおいしい肉のミンチとチーズとトマトが乗ったごはん？
+wavs/mir10619.wav|ううんっ
+wavs/mir10620.wav|たしかに言われてみたらピザっ
+wavs/mir10621.wav|ほら、ここなの
+wavs/mir10622.wav|ね！　パンケーキ楽しみー！
+wavs/mir10623.wav|行きましょー
+wavs/mir10624.wav|２人です
+wavs/mir10625.wav|あ、ほらタコライス
+wavs/mir10626.wav|うん、どうぞどうぞ
+wavs/mir10627.wav|私はどれにしよっかなー
+wavs/mir10628.wav|パンケーキはデザートだよ
+wavs/mir10629.wav|あおくんもパンケーキ食べる？
+wavs/mir10630.wav|ほら、普通のパンケーキとは違うんだよ、ホイップクリームとか乗ってるし
+wavs/mir10631.wav|ふわふわなんじゃないかな、メレンゲとかで
+wavs/mir10632.wav|絶対食べる！
+wavs/mir10632p.wav|絶対食べる！
+wavs/mir10633.wav|お、初タコライスいいね！
+wavs/mir10634.wav|あと、ドリンクは？
+wavs/mir10634p.wav|あと、ドリンクは？
+wavs/mir10635.wav|お、いいねぇ、おいしそう
+wavs/mir10636.wav|ほかに頼みたいものある？
+wavs/mir10637.wav|ふふ、そうだね
+wavs/mir10638.wav|すみませーん
+wavs/mir10639.wav|タコライスがひとつ、ポキライスがひとつそれから梅ソーダとルイボスフルーツティーのアイスをお願いします
+wavs/mir10640.wav|あと、食後にバニラアンドキャラメルナッツパンケーキをひとつ
+wavs/mir10641.wav|いーえ
+wavs/mir10642.wav|カフェだからねぇ
+wavs/mir10643.wav|ああ、これこれ
+wavs/mir10644.wav|漬けまぐろとアボカドの乗ったごはんかな
+wavs/mir10645.wav|ポキライスね
+wavs/mir10646.wav|うー、いいじゃあん、今日はカロリーとか考えなくていい日にするの！
+wavs/mir10647.wav|どうだったっけ？
+wavs/mir10648.wav|よく食べるようになったのは、やっぱり剣道をはじめてからかも
+wavs/mir10649.wav|でも、どっちにしたってパンケーキは絶対食べたいっ
+wavs/mir10650.wav|はーいありがとうございます
+wavs/mir10651.wav|ちょっと食べる？
+wavs/mir10652.wav|食べたことないんでしょ？　お味見どーぞ
+wavs/mir10653.wav|わさびもちょっと乗せて
+wavs/mir10654.wav|はいおっけい
+wavs/mir10655.wav|どう？
+wavs/mir10656.wav|でしょー？
+wavs/mir10657.wav|もうそれでいっか、私もいただきまーす
+wavs/mir10658.wav|うーんおいしい！
+wavs/mir10659.wav|タコライスも早く食べてみてよ
+wavs/mir10660.wav|でしょー？
+wavs/mir10661.wav|ピザではないねぇ
+wavs/mir10662.wav|それ、沖縄発祥なんだって
+wavs/mir10663.wav|さぁ
+wavs/mir10664.wav|米軍が持ち込んだタコスの具材と、ごはんを組み合わせたものみたい
+wavs/mir10665.wav|タコスは私も食べたことないなぁ
+wavs/mir10666.wav|今度一緒に食べに行こうよ
+wavs/mir10667.wav|んー、おいしかった！
+wavs/mir10668.wav|よかったぁ、気に入ってくれて
+wavs/mir10669.wav|あ、お願いしまーす
+wavs/mir10670.wav|お願いしますっ！
+wavs/mir10671.wav|楽しみだなぁパンケーキっ
+wavs/mir10672.wav|わぁー！
+wavs/mir10673.wav|いただきまーっす！
+wavs/mir10674.wav|あー、ふわふわーっ！
+wavs/mir10675.wav|バニラとホイップクリームを乗せて
+wavs/mir10676.wav|はむっ
+wavs/mir10677.wav|んーっ！　おいしぃーっ！！
+wavs/mir10678.wav|あっ！？
+wavs/mir10680.wav|まいっか、どうせ見直さないしっ
+wavs/mir10681.wav|そんなことよりあおくんも食べなよぉ
+wavs/mir10682.wav|もちろん、おいしいから食べて食べて
+wavs/mir10683.wav|？　どうしたの？
+wavs/mir10684.wav|大丈夫だよ、ふわふわなだけ
+wavs/mir10685.wav|ね、とけてなくなっちゃうでしょ？
+wavs/mir10686.wav|いいよいいよ、ひと切れと言わず半分食べな？
+wavs/mir10687.wav|いいよー、おいしかったの？
+wavs/mir10688.wav|ふふ
+wavs/mir10689.wav|んー、紅茶と合うなぁ
+wavs/mir10690.wav|ルイボスフルーツティー。飲んでみる？
+wavs/mir10691.wav|あれ、いいのに、そのままで
+wavs/mir10692.wav|今さらじゃない？　昔も回し飲みとかしてたのに
+wavs/mir10695.wav|全然わからない
+wavs/mir10696.wav|しないよぅ、いい匂いオンリーだよ
+wavs/mir10697.wav|しないってぇ
+wavs/mir10698.wav|はー、おいしかったーっ
+wavs/mir10699.wav|じゃあ、そろそろ行きますか
+wavs/mir10700.wav|あれ？　あおくん？
+wavs/mir10701.wav|まさか払ってくれるつもりじゃないよね？
+wavs/mir10702.wav|えー！？　なんで！？
+wavs/mir10702p.wav|えー！？　なんで！？
+wavs/mir10703.wav|ふるーい！　古い古いっ！
+wavs/mir10703p.wav|ふるーい！　古い古いっ！
+wavs/mir10704.wav|対等でしょ対等っ、割り勘割り勘！
+wavs/mir10704p.wav|対等でしょ対等っ、割り勘割り勘！
+wavs/mir10705.wav|うー、カフェもタコライスも知らなかったくせに、そういうとこだけ大人の対応
+wavs/mir10706.wav|う、うんわかった
+wavs/mir10707.wav|ごちそうさまでしたーっ
+wavs/mir10708.wav|あーおいしかったっ
+wavs/mir10709.wav|気に入った？
+wavs/mir10710.wav|そっか、じゃあまた来よう？　次は私が払うからねっ
+wavs/mir10711.wav|せっかくここまで来たんだし、次はどうする？
+wavs/mir10712.wav|なにかやりたいこととか――― あおくん？
+wavs/mir10713.wav|どうしたの？　なにかあった？
+wavs/mir10715.wav|うんそっか
+wavs/mir10716.wav|ううん、いいの。連れ出したのはこっちだし
+wavs/mir10717.wav|ごめんね、勉強しなくちゃいけないのに
+wavs/mir10718.wav|ううん、あおくんは悪くないから
+wavs/mir10720.wav|と、とりあえず、帰ろっか
+wavs/mir10722.wav|じゃあ
+wavs/mir10724.wav|あおくん
+wavs/mir10725.wav|なにかあったら話、聴くからね
+wavs/mir10726.wav|あおくーん
+wavs/mir10727.wav|おはよう、あおくん
+wavs/mir10728.wav|起きてー、学校行くよー
+wavs/mir10729.wav|おはよう、あおくん
+wavs/mir10730.wav|今日も元気に学校行こうね
+wavs/mir10731.wav|今週終わったら夏休みだね
+wavs/mir10732.wav|早いねぇ
+wavs/mir10733.wav|こないだ３年生になったと思ったら、もう夏休みなんだもん
+wavs/mir10734.wav|これじゃあすぐ卒業だね
+wavs/mir10736.wav|そういえば
+wavs/mir10737.wav|{rb}一昨日{/rb}{rt}おととい{/rt}、大丈夫だった？
+wavs/mir10738.wav|ほら、カフェのあとあおくん急いでたから
+wavs/mir10740.wav|そっか
+wavs/mir10741.wav|あおくん
+wavs/mir10743.wav|もし、私になにかできることがあったら
+wavs/mir10743r.wav|もし、私になにかできることがあったら
+wavs/mir10747.wav|あおくん
+wavs/mir10749.wav|紀伊国屋くんと付き合ってるって本当？
+wavs/mir10749p.wav|紀伊国屋くんと付き合ってるって本当？
+wavs/mir10750.wav|と、友達から、そういう話が回ってきて
+wavs/mir10750p.wav|と、友達から、そういう話が回ってきて
+wavs/mir10751.wav|やっぱり！
+wavs/mir10751p.wav|やっぱり！
+wavs/mir10752.wav|なに話してたの？　紀伊国屋くんと
+wavs/mir10752p.wav|なに話してたの？　紀伊国屋くんと
+wavs/mir10755.wav|じゃあなんで付き合ってるなんて話に
+wavs/mir10755p.wav|じゃあなんで付き合ってるなんて話に
+wavs/mir10756.wav|あっ、ちゅーしてたとか？
+wavs/mir10756p.wav|あっ、ちゅーしてたとか？
+wavs/mir10757.wav|あはは、冗談冗談
+wavs/mir10758.wav|つまり付き合ってはないんだよね？
+wavs/mir10759.wav|そっか
+wavs/mir10760.wav|それはよかった？
+wavs/mir10761.wav|ふふ、まぁまぁ、そんな日もあるよ
+wavs/mir10763.wav|ないか
+wavs/mir10764.wav|あおくん？　どうしたの？
+wavs/mir10765.wav|やっぱりあおくんママって厳しい？
+wavs/mir10766.wav|ごめん、でもなんとなく気になっちゃって
+wavs/mir10767.wav|学歴コンプレックス？
+wavs/mir10769.wav|そっか
+wavs/mir10770.wav|あー、うん、いちおう
+wavs/mir10771.wav|うーん笑わないでほしいんだけど
+wavs/mir10772.wav|あのねカフェかなにかの人になるのがいいかなーって
+wavs/mir10773.wav|うん
+wavs/mir10774.wav|だから笑わないでって言ったのに
+wavs/mir10775.wav|まあ、なんかね、紅茶とか、コーヒーの匂いに包まれて働きたいなぁって
+wavs/mir10776.wav|だから、調理とか栄養系の学科がある大学に行こうと思ってて
+wavs/mir10777.wav|第一志望は{rb}文秀{/rb}{rt}ぶんしゅう{/rt}大学なんだ、スポーツ推薦枠あるし
+wavs/mir10778.wav|そうかな？　だといいなぁ
+wavs/mir10779.wav|それってコーヒー専門の人だよね？　紅茶も扱いたいなぁ
+wavs/mir10780.wav|あ、そっか
+wavs/mir10781.wav|そうだよね、両方のプロになればいいんだもんね
+wavs/mir10782.wav|あーおくん
+wavs/mir10783.wav|珍しいね、あおくんからあらためて一緒に帰ろうだなんて
+wavs/mir10784.wav|そうなんだ
+wavs/mir10786.wav|じゃあ帰ろっか
+wavs/mir10787.wav|あおくん？
+wavs/mir10788.wav|もしかしてなにか話とかあったりする？
+wavs/mir10789.wav|なんだかいつもと違うしなにか言いたそうだから？
+wavs/mir10790.wav|うん？
+wavs/mir10791.wav|あおくん？
+wavs/mir10796.wav|前に、進む？
+wavs/mir10800.wav|ごめん
+wavs/mir10800r.wav|ごめん
+wavs/mir10801.wav|ごめんね、あおくん
+wavs/mir10801r.wav|ごめんね、あおくん
+wavs/mir10806.wav|誰か
+wavs/mir10806p.wav|誰か
+wavs/mir10807.wav|誰か、別の人が映ってるの
+wavs/mir10807p.wav|誰か、別の人が映ってるの
+wavs/mir10807r.wav|誰か、別の人が映ってるの
+wavs/mir10808.wav|あおくんの目には
+wavs/mir10808p.wav|あおくんの目には
+wavs/mir10809.wav|あおくん？
+wavs/mir10810.wav|あっ！
+wavs/mir10813.wav|あおくんどうしたの？
+wavs/mir10814.wav|えっ？　うちで？
+wavs/mir10815.wav|そうだったんだ
+wavs/mir10817.wav|あのごめんね、TALK返すの遅くなっちゃって
+wavs/mir10818.wav|うんじゃあね
+wavs/mir10819.wav|なに？
+wavs/mir10820.wav|わかった
+wavs/mir10821.wav|あのあおくん
+wavs/mir10822.wav|その
+wavs/mir10823.wav|ごめんね
+wavs/mir10824.wav|あおくん？
+wavs/mir10825.wav|お買い物？
+wavs/mir10827.wav|あおくん？
+wavs/mir10828.wav|あおくん？　大丈夫？
+wavs/mir10829.wav|――― あおくん
+wavs/mir10830.wav|あおくん私
+wavs/mir10831.wav|私、あおくんにひどいことをしたのはわかってる
+wavs/mir10832.wav|だからこんなこと言う資格ないかもしれないけど
+wavs/mir10834.wav|私待ってるから
+wavs/mir10835.wav|あおくんのこと、ずっと待ってるから
+wavs/mir10837.wav|あっ
+wavs/mir10838.wav|あおくん、待ってっ
+wavs/mir10838p.wav|あおくん、待ってっ
+wavs/mir10839.wav|――― あおくん？
+wavs/mir10840.wav|大丈夫？　なんだか――― 
+wavs/mir10841.wav|あおくんっ――― ！？
+wavs/mir10841p.wav|あおくんっ――― ！？
+wavs/mir10842.wav|じゃあめかくししててもわかる？
+wavs/mir10843.wav|じゃあいくよ？
+wavs/mir10844.wav|ほかのおともだちはわからないのにね
+wavs/mir10845.wav|だーれだっ！
+wavs/mir10846.wav|あっ、すごい
+wavs/mir10848.wav|あおくん？
+wavs/mir10849.wav|今、『つむぎ』って言った？
+wavs/mir10851.wav|ねぇ、あおくん
+wavs/mir10852.wav|今あの子と一緒にいるの？
+wavs/mir10854.wav|あおくんっ？
+wavs/mir10855.wav|あおくんっ！
+wavs/mir10856.wav|大丈夫？　どこか痛いところは
+wavs/mir10859.wav|っくっ
+wavs/mir10861.wav|やっと思い出せたんだね！
+wavs/mir10862.wav|ううんっううん！
+wavs/mir10864.wav|私ずっと待ってたの
+wavs/mir10865.wav|あおくんが、あの子のことを思い出してくれるのをずっと、ずっと！
+wavs/mir10866.wav|うっっ
+wavs/mir10867.wav|あおくんが、あの子のことを忘れちゃった時から
+wavs/mir10868.wav|思い出してくれるまで、一緒に待つって決めてた
+wavs/mir10869.wav|あの子もあおくんのことが好きだったから
+wavs/mir10870.wav|だからそれまであおくんが、あの子のことを思い出してくれるまで一緒に待つって決めてたのに
+wavs/mir10871.wav|子供のとき、目の前で、あおくんがひどい目に遭ってても私、全然動けなくって
+wavs/mir10872.wav|全然、あおくんのことを守れなくって
+wavs/mir10874.wav|こんなんじゃ、一緒にいる資格なんてないって
+wavs/mir10875.wav|一緒にいても守れなくちゃ意味がないって思って
+wavs/mir10876.wav|だから、守れるようになりたくて
+wavs/mir10877.wav|中学の３年間、必死に強くなろうとして
+wavs/mir10879.wav|だからね
+wavs/mir10880.wav|あおくんから離れようとか、そんなつもりは全然なくって！
+wavs/mir10881.wav|でも、あおくんから見たらそう感じててもおかしくなかったから
+wavs/mir10882.wav|高校で、また一緒になれたのに、また仲良くなるまですごく時間がかかっちゃって
+wavs/mir10883.wav|それもっ、苦しくて
+wavs/mir10884.wav|だからっ
+wavs/mir10886.wav|もう離れたくない
+wavs/mir10886p.wav|もう離れたくない
+wavs/mir10887.wav|私に、それが許されるなら
+wavs/mir10888.wav|私はっあおくんと、ずっと一緒にいたい！
+wavs/mir10890.wav|うんっ！
+wavs/mir10891.wav|ありがとうあの子のことを、思い出してくれて
+wavs/mir10892.wav|ほんとだよぉっ
+wavs/mir10893.wav|もう、８月も終わっちゃうよ？
+wavs/mir10894.wav|ふふ、お寝坊さんなのは、ずっと変わらなそうだね
+wavs/mir10895.wav|ううん、大丈夫
+wavs/mir10896.wav|これからは、私がいるよ
+wavs/mir10899.wav|うんそうだね
+wavs/mir10900.wav|じゃあ私、看護師さん呼んでくる
+wavs/mir10902.wav|おはよう、あおくん
+wavs/mir10902p.wav|おはよう、あおくん
+wavs/mir10903.wav|あおくーーーんっ
+wavs/mir10904.wav|だーーー、れだっ！
+wavs/mir10905.wav|うん、正解っ
+wavs/mir10906.wav|うん昔から、そうだったもんね
+wavs/mir10907.wav|それに、もう訊かなくても大丈夫だよね
+wavs/mir10909.wav|おはよう、あおくん
+wavs/mir10910.wav|じゃあいこっか
+wavs/mir10912.wav|あ、うん
+wavs/mir10913.wav|えうーん
+wavs/mir10914.wav|あのーその
+wavs/mir10915.wav|『あの子のこと、まだ好きでいてくれているの？』って
+wavs/mir10916.wav|それから、合鍵をくれて――― 
+wavs/mir10918.wav|そ、そんなのっ言わなくてもわかるでしょ
+wavs/mir10919.wav|ああもう！！　YESって答えたに決まってるじゃん！　ずーっとYESだったんだから！！
+wavs/mir10920.wav|い、言わせないでよぉ
+wavs/mir10921.wav|お礼！？　お礼もおかしいよ！？
+wavs/mir10922.wav|ひゃっ！？
+wavs/mir10922p.wav|ひゃっ！？
+wavs/mir10923.wav|き、聞いてたの！？
+wavs/mir10924.wav|それは聞いてるじゃんっ！
+wavs/mir10925.wav|ああ、ごめんごめん、その件はもう大丈夫、おかげさまで
+wavs/mir10926.wav|実はねあおくんと紀伊国屋くん、ふたりでいるところに２回くらい出会ったじゃない？　ちょっと前のことだけど
+wavs/mir10927.wav|その時、なんか紀伊国屋くんが妙な顔してたから
+wavs/mir10928.wav|もしかしたら、なにか知ってるのかもって思って
+wavs/mir10929.wav|そのあと紀伊国屋くんが『情報オタク』だって何人かから聞いて
+wavs/mir10930.wav|だから紀伊国屋くんがなにか知っても、あおくんに言わないようにお願いしたの
+wavs/mir10931.wav|みんなが、今まであおくんのために秘密にしてきたことだからって
+wavs/mir10932.wav|本当にありがとう、紀伊国屋くん。約束を守ってくれて口が軽そうなのに
+wavs/mir10934.wav|まぁ、そうかな？
+wavs/mir10935.wav|紀伊国屋くんは、どんな夏だった？
+wavs/mir10936.wav|妖怪羊？　可愛い予感がする！
+wavs/mir10937.wav|そうなの？
+wavs/mir10938.wav|そうなの？
+wavs/mir10939.wav|可愛かった？
+wavs/mir10940.wav|スポンジ
+wavs/mir10941.wav|それ気になってた
+wavs/mir10942.wav|始業に間に合うかなぁ？
+wavs/mir10943.wav|あおくん
+wavs/mir10944.wav|今日、私このあと部活だからまたあとで連絡するね
+wavs/mir10945.wav|やっと見つかったんだね、書き出し
+wavs/mir10946.wav|僕は、彼女の夢を見る
+wavs/mir10946p.wav|僕は、彼女の夢を見る
