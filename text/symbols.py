@@ -14,3 +14,8 @@ symbols = [_pad] + list(_punctuation) + list(_letters) + list(_letters_ipa)
 
 # Special symbol ids
 SPACE_ID = symbols.index(" ")
+
+'''
+symbols = list(' !"&*,-.?ABCINU[]abcdefghijklmnoprstuwyz{}~')
+SPACE_ID = symbols.index(" ")
+'''
