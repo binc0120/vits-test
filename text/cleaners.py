@@ -151,6 +151,10 @@ def japanese_cleaners(text):
     text += '.'
   return text
 
+def japanese_cleaners2(text):
+  return japanese_cleaners(text).replace('ts','ʦ').replace('...','…')
+
+
 def japanese_tokenization_cleaners(text):
   '''Pipeline for tokenizing Japanese text.'''
   words = []
